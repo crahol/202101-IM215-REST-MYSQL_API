@@ -1,0 +1,16 @@
+{
+  "name": "202101-IM215-REST-MYSQL_API",
+  "version": "1.0.0",
+  "description": "\"This is demo of my first Node js Hello world\"",
+  "main": "index.js",
+  "repository": "https://github.com/crahol/202101-IM215-REST-MYSQL_API.git",
+  "author": "crahol <raholchaitali20@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+   },
+    "scripts": {
+  	"dev" : "node index.js"
+
+}
+}
